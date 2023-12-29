@@ -44,11 +44,11 @@ function Projects() {
           <Col md={4} className="project-card">
             <ProjectCard
               imgPath={Graph}
-              isBlog={true}
-              title="Graph Blog"
+              isBlog={false}
+              title="Java Blog"
               description="Clients can manage the blog from a dedicated Content Management System(CMS).GraphQL is used for the api service."
               ghLink="https://github.com/Abhibhab/Graphblog"
-              demoLink="https://graphblog-gmfm8o4q8-abhibhab.vercel.app/"
+              demoLink="https://vamsilabs-master-notes.netlify.app/"
             />
           </Col>
           <Col md={4} className="project-card">
